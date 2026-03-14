@@ -7,7 +7,7 @@ NIM: 243303621222
 Prodi: Sistem Informasi
 
 ## 📸 Screenshots
-![Screenshot Aplikasi](assets/images/screenshot.png)
+![Preview Aplikasi](assets/images/screenshot.png)
 
 ## 🛠 Tech Stack
 - **Framework:** React Native (Expo)
